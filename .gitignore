@@ -1,0 +1,8 @@
+# Kompilyatsiya qilingan dasturlar
+giveMeSub
+giveMeSub.exe
+
+# IDE va redaktor sozlamalari
+.vscode/
+.idea/
+*.swp
